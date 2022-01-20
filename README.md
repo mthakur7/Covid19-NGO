@@ -1,4 +1,4 @@
-# Covid-19-NGO-Website-HTML-CSS-JAVASCRIPT-
+# Covid-19-NGO-Website
 
 This project aims at being a complete, end-to-end solution for the functioning, and management of the NGO, which is a not-for-profit organization founded in order to improve the lives and livelihoods of people from the vulnerable, marginalized and under-developed sections of the society.
 
